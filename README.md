@@ -1,17 +1,3 @@
-ProfileMe.dev
-
-    Go home
-
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
-
-Make it easy for people using your products to support you or give donations.
-buymeacoffeeBuy Me a Coffee:
-kofiKo-fi:
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gustavo Santana
 ========================================================================================================================================
 
@@ -41,4 +27,3 @@ Developer & Computer Science Student
 
 <div width="100%" align="center"><a href="https://github.com/onlyatsug/Personal-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onlyatsug&repo=Personal-Blog&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/onlyatsug/Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onlyatsug&repo=Weather-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
