@@ -1,4 +1,4 @@
-Hi ![]👋 My name is Gustavo Santana
+Hi !👋 My name is Gustavo Santana
 ========================================================================================================================================
 
 Developer & Computer Science Student
