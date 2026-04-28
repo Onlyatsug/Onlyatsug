@@ -6,8 +6,7 @@ Developer & Computer Science Student
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [gsb.jmt@gmail.com](mailto:gsb.jmt@gmail.com)
-*   🚀  I'm currently working on [Personal Blog](http://onlyatsug.site)
-*   🧠  I'm currently learning Graphics Programming
+*   🚀  I'm currently working on [Personal Blog](http://blog.onlyatsug.site)
 <p align="left">
 
 
