@@ -1,6 +1,5 @@
 
 <h1>Hi !👋</h1>
-<h3>Developer & Computer Science Student</h3>
 
 ### :space_invader: &nbsp;About Me
 
