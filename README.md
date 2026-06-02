@@ -1,6 +1,8 @@
 
 <h1>Hi !👋</h1>
 
+![img](https://capsule-render.vercel.app/api?type=blur&height=240&color=gradient&section=header&reversal=false&textBg=false&fontColor=eee&desc=Fullstack,%20QA/RA,%20and%20maybe%20Software%20Engineering.&descAlign=50&descAlignY=50)
+
 ### :space_invader: &nbsp;About Me
 
 🚀 Currently working as a Trainee in Quality Assurance and Requirements Analyst at ![SEFAZ-MT](https://www5.sefaz.mt.gov.br/). \
