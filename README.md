@@ -5,7 +5,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-🚀 Currently working as a Trainee in Quality Assurance and Requirements Analyst at ![SEFAZ-MT](https://www5.sefaz.mt.gov.br/). \
+🚀 Currently working as a Trainee in Quality Assurance and Requirements Analyst at <a href="https://www5.sefaz.mt.gov.br/">SEFAZ-MT</a> \
 🔬 Love for science and learning. \
 ⚙️ Passionate about problem solving and daily routine automation. \
 💻 Always studying software-related processes and challenges. \
